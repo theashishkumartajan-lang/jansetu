@@ -1,0 +1,1 @@
+export { trustAgent } from '../orchestrator';
